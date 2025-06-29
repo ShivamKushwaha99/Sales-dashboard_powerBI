@@ -58,6 +58,7 @@ Portfolio: (https://shivam-portfolio-86t3.vercel.app/)
 Email: kushvaha5678@gmail.com
 
 ---
+![image alt] (https://github.com/ShivamKushwaha99/Sales-dashboard_powerBI/blob/main/Screenshot%202025-06-21%20071628.png)
 
 > For demo videos or screenshots, refer to the `/assets` folder.
 # Sales-dashboard_powerBI
