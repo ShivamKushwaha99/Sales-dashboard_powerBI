@@ -52,13 +52,14 @@ This Power BI Dashboard provides a dynamic, interactive view of key performance 
 - Custom client reports
 
 ## 👨‍💻 Developed By
-**Your Name** – B.E. Information Technology  
+**Your Name** – Shivam Kushwaha  
 GitHub: (https://github.com/ShivamKushwaha99)  
 Portfolio: (https://shivam-portfolio-86t3.vercel.app/)  
 Email: kushvaha5678@gmail.com
 
 ---
-![image alt] (https://github.com/ShivamKushwaha99/Sales-dashboard_powerBI/blob/main/Screenshot%202025-06-21%20071628.png)
+![Live View](https://github.com/ShivamKushwaha99/Sales-dashboard_powerBI/blob/3927b07eceeccd32097e06129202e9a02d484744/Screenshot%202025-06-21%20071628.png)
+
 
 > For demo videos or screenshots, refer to the `/assets` folder.
 # Sales-dashboard_powerBI
